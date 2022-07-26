@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from django.contrib.admin.utils import prepare_lookup_value
 from django.contrib import admin
 from django.db.models import Q
